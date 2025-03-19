@@ -1,5 +1,6 @@
 {
   "name": "pb-vite-portfolio",
+  "homepage": "https://pborlagdan.github.io/pb-vite-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
